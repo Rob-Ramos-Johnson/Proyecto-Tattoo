@@ -178,7 +178,7 @@ h3 {
 }
 
 .contenido-hero {
-    position: absolute;
+  position: absolute;
     background-color: rgba(0, 0, 0, .7);
     /**Anterior**/
     background-color: rgb(0 0 0 / 70%);
