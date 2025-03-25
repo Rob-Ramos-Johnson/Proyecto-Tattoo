@@ -1,0 +1,22 @@
+{
+  "name": "proyecto-tattoo_original_no_tocar",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch scss/style.scss:css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rob-Ramos-Johnson/Proyecto-Tattoo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rob-Ramos-Johnson/Proyecto-Tattoo/issues"
+  },
+  "homepage": "https://github.com/Rob-Ramos-Johnson/Proyecto-Tattoo#readme",
+  "description": "",
+  "devDependencies": {
+    "sass": "^1.86.0"
+  }
+}

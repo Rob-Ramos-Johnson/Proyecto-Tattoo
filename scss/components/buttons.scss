@@ -1,0 +1,17 @@
+// Estilos para botones
+.btn-primary {
+    background-color: $primary-color;
+    border-color: $primary-color;
+    font-size: 1.2rem;
+    padding: 10px 20px;
+    border-radius: 8px;
+    @include transition(background-color, 0.3s);
+    @include transition(border-color, 0.3s);
+    @include transition(transform, 0.3s);
+}
+
+.btn-primary:hover {
+    background-color: darken($primary-color, 10%);
+    border-color: darken($primary-color, 10%);
+    transform: scale(1.05);
+}

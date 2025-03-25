@@ -1,0 +1,8 @@
+// Estilos para el header
+header {
+    background-color: $primary-color;
+    color: white;
+    padding: 50px 0;
+    text-align: center;
+    animation: fadeInDown 1s ease-out forwards;
+}
