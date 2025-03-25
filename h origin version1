@@ -1,0 +1,335 @@
+[33mcommit ade1fe72ff2a22eeed894287cff21603ff9563ff[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mversion1[m[33m, [m[1;31morigin/version1[m[33m)[m
+Author: Roberto <r.a.ramosjohnson@gmail.com>
+Date:   Tue Mar 25 02:08:52 2025 -0300
+
+    actualizacion version1
+
+[33mcommit 127d53de6a385f0d751c778e540e82ef19542256[m
+Author: Roberto <r.a.ramosjohnson@gmail.com>
+Date:   Tue Mar 25 00:42:11 2025 -0300
+
+    Eliminando node_modules de la rama version1
+
+[33mcommit aa4dba52199454f63ca80b28f0ed0041e8440841[m
+Author: Roberto <r.a.ramosjohnson@gmail.com>
+Date:   Tue Mar 25 00:32:20 2025 -0300
+
+    Se agrega Sass al proyecto
+
+[33mcommit 85aba8377030d5c7373d01f745d99c16208a2cec[m
+Author: Roberto <r.a.ramosjohnson@gmail.com>
+Date:   Tue Mar 25 00:22:57 2025 -0300
+
+    Se agrega version1
+
+[33mcommit af9d517da9d09f45a6e4743a90ebb814c91a96d8[m
+Author: Roberto <r.a.ramosjohnson@gmail.com>
+Date:   Tue Mar 25 00:03:23 2025 -0300
+
+    Se agrega mapa de ubicación
+
+[33mcommit e29b85f79705a9bf42876484023c3b3a2a27cfea[m
+Author: Roberto <r.a.ramosjohnson@gmail.com>
+Date:   Mon Mar 17 21:15:37 2025 -0300
+
+    Se eliminan comentarios
+
+[33mcommit 1d2aed3e0bb1869904e213dbab91797b1d858007[m
+Author: Roberto <r.a.ramosjohnson@gmail.com>
+Date:   Sun Mar 16 20:10:00 2025 -0300
+
+    Se eliminaron iconos
+
+[33mcommit 280a66a1ed29b212eb7a1f4cedc2ec5395245cb2[m
+Author: Roberto <r.a.ramosjohnson@gmail.com>
+Date:   Sun Mar 16 20:07:20 2025 -0300
+
+    Se quitaron y agregaron fotografias
+
+[33mcommit a86c10332312a31e426b2d8b2bf93c7be3e3cdd2[m
+Author: Roberto <r.a.ramosjohnson@gmail.com>
+Date:   Sun Mar 16 20:03:25 2025 -0300
+
+    Se eliminaron: variables-important-comentarios/ Se agregaron animaciones en todas las secciones, para los 5 archivos html
+
+[33mcommit ae9e3fa136333b1097ebb5c318531cae7afa0bd6[m
+Author: Roberto <r.a.ramosjohnson@gmail.com>
+Date:   Sun Mar 16 19:53:30 2025 -0300
+
+    Correccion de headings/ Cambio de nombre nosotros a artistas /Se agrega bootstrap /Se agrega google fonts
+
+[33mcommit 3aa41602459eb4a84b1a9ce56153451fdac36e44[m
+Author: Roberto <r.a.ramosjohnson@gmail.com>
+Date:   Sun Mar 16 19:50:50 2025 -0300
+
+    artistas.html actualizado
+
+[33mcommit 56d01e2f6356156642634c95534729c8d8890a50[m
+Author: Roberto <r.a.ramosjohnson@gmail.com>
+Date:   Sun Mar 16 19:49:37 2025 -0300
+
+    Se eliminan comentarios /Se linkea css solo una vez
+
+[33mcommit 24ff49af6a06b797102225605210061c81cfa7c4[m
+Author: Roberto <r.a.ramosjohnson@gmail.com>
+Date:   Sun Mar 16 19:48:44 2025 -0300
+
+    artistas.html actualizado
+
+[33mcommit 3ca539dc461d44ee877dad3b234278599f0afc0b[m
+Author: Roberto <r.a.ramosjohnson@gmail.com>
+Date:   Sun Mar 16 19:46:58 2025 -0300
+
+    Archivo creado en carpeta organizada /Nav creado con ul / Se eliminan tags vacios
+
+[33mcommit d8ff3d2d21db98211bded2e4192dcb65f83c2a1d[m
+Author: Roberto <r.a.ramosjohnson@gmail.com>
+Date:   Sun Mar 16 19:43:37 2025 -0300
+
+    Correccion de headings/ Se agrega bootstrap /Se agrega google fonts
+
+[33mcommit 08f89186ee0f4242344614dce04fa70466b2e133[m
+Author: Roberto <r.a.ramosjohnson@gmail.com>
+Date:   Sun Mar 16 19:42:46 2025 -0300
+
+    contacto.html actualizado
+
+[33mcommit 2e979e0061f2d177340e80a7b50e038e000ab7d4[m
+Author: Roberto <r.a.ramosjohnson@gmail.com>
+Date:   Sun Mar 16 19:41:53 2025 -0300
+
+    Se eliminan comentarios /Se linkea css solo una vez
+
+[33mcommit 9696388ff74ec887a294bbd9a92520a15e534551[m
+Author: Roberto <r.a.ramosjohnson@gmail.com>
+Date:   Sun Mar 16 19:40:59 2025 -0300
+
+    contacto.html actualizado
+
+[33mcommit 192b28696131275bfe2c9a2b310d55cd3670a408[m
+Author: Roberto <r.a.ramosjohnson@gmail.com>
+Date:   Sun Mar 16 19:38:40 2025 -0300
+
+    Archivo creado en carpeta organizada /Nav creado con ul / Se eliminan tags vacios
+
+[33mcommit 82943a5d0f8ac485f4b20943d9627d37219c1eb6[m
+Author: Roberto <r.a.ramosjohnson@gmail.com>
+Date:   Sun Mar 16 19:30:48 2025 -0300
+
+    Correccion de headings /Se agrega google fonts
+
+[33mcommit b17cfabe686004dad91fb4a1901a9a59985a2935[m
+Author: Roberto <r.a.ramosjohnson@gmail.com>
+Date:   Sun Mar 16 19:29:27 2025 -0300
+
+    galeria.html actualizado
+
+[33mcommit 0a479f946fd28daba0f9bd9780b96eb19892b3db[m
+Author: Roberto <r.a.ramosjohnson@gmail.com>
+Date:   Sun Mar 16 19:28:04 2025 -0300
+
+    Se eliminan comentarios /Se linkea css solo una vez
+
+[33mcommit 3654917af155142f755590a542b0000f1508bf08[m
+Author: Roberto <r.a.ramosjohnson@gmail.com>
+Date:   Sun Mar 16 19:27:12 2025 -0300
+
+    galeria.html actualizado
+
+[33mcommit 7e57f33de6c6bd995278e911d16f1dabeecaefe2[m
+Author: Roberto <r.a.ramosjohnson@gmail.com>
+Date:   Sun Mar 16 19:25:28 2025 -0300
+
+    Section corregido /Bootstrap añadido correctamente /script despues del footer /Header agregado al archivo
+
+[33mcommit 23d4788ba2e0ef64cd212d98267217e6a9125934[m
+Author: Roberto <r.a.ramosjohnson@gmail.com>
+Date:   Sun Mar 16 19:19:31 2025 -0300
+
+    galeria.html actualizado
+
+[33mcommit f9311f7cb9be6b383669b5ead7fb5229aefb76e8[m
+Author: Roberto <r.a.ramosjohnson@gmail.com>
+Date:   Sun Mar 16 19:16:17 2025 -0300
+
+    Archivo creado en carpeta organizada /Nav creado con ul / Se eliminan tags vacios
+
+[33mcommit 1be565d9b3268768f41120ea8f6e077531db648d[m
+Author: Roberto <r.a.ramosjohnson@gmail.com>
+Date:   Sun Mar 16 19:09:57 2025 -0300
+
+    Correccion de headings/ Se agrega bootstrap /Se agrega google fonts
+
+[33mcommit 94d8e4bb2e473fc69ca3ca00345486a3a350f8c0[m
+Author: Roberto <r.a.ramosjohnson@gmail.com>
+Date:   Sun Mar 16 19:08:51 2025 -0300
+
+    servicios.html actualizado
+
+[33mcommit b59c51f6476284f11db21d940a611be8a2a2c070[m
+Author: Roberto <r.a.ramosjohnson@gmail.com>
+Date:   Sun Mar 16 19:06:37 2025 -0300
+
+    Se eliminan comentarios /Se linkea css solo una vez
+
+[33mcommit 678392458c6092757637e14c4ff2e33ebd634b46[m
+Author: Roberto <r.a.ramosjohnson@gmail.com>
+Date:   Sun Mar 16 19:04:39 2025 -0300
+
+    servicios.html actualizado
+
+[33mcommit 05a6199225799b67adf52b2a9963ef382f98341c[m
+Author: Roberto <r.a.ramosjohnson@gmail.com>
+Date:   Sun Mar 16 18:47:32 2025 -0300
+
+    Archivo creado en carpeta organizada /Nav creado con ul / Se eliminan tags vacios
+
+[33mcommit e2074038f3dde926df4ca8cf24ae02709aad99f0[m
+Author: Roberto <r.a.ramosjohnson@gmail.com>
+Date:   Sun Mar 16 18:34:32 2025 -0300
+
+    Correccion de headings/ Se agrega bootstrap /Se agrega google fonts
+
+[33mcommit 0fad71a56e103abf8bcb3f68960ac0cc3818f2b2[m
+Author: Roberto <r.a.ramosjohnson@gmail.com>
+Date:   Sun Mar 16 18:33:05 2025 -0300
+
+    Actualizacion index
+
+[33mcommit 7fe961fe39ceb966a75bde7f484e8d604655e826[m
+Author: Roberto <r.a.ramosjohnson@gmail.com>
+Date:   Sun Mar 16 18:27:17 2025 -0300
+
+    Se eliminan comentarios /Se linkea css solo una vez /Se eliminan tags vacios
+
+[33mcommit c6164a586d709f1f983112cd831e47c7ec6ce6ae[m
+Author: Roberto <r.a.ramosjohnson@gmail.com>
+Date:   Sun Mar 16 18:22:57 2025 -0300
+
+    Actualizacion index
+
+[33mcommit 66c016065142767c372475802b85e8708f00f678[m
+Author: Roberto <r.a.ramosjohnson@gmail.com>
+Date:   Sun Mar 16 18:14:59 2025 -0300
+
+    Se corrige nav con ul
+
+[33mcommit 479ac35cabcf7416ece1532db9439253fff59e71[m
+Author: Roberto <r.a.ramosjohnson@gmail.com>
+Date:   Sun Mar 16 18:08:27 2025 -0300
+
+    Se agrego icono map
+
+[33mcommit 6cf11edea6371e8bd5402c005a916de2c68645c7[m
+Author: Roberto <r.a.ramosjohnson@gmail.com>
+Date:   Sun Mar 16 17:59:12 2025 -0300
+
+    Añadir archivos y carpetas
+
+[33mcommit 6d0813963af155099d33816ea568809ae60a0089[m
+Author: Roberto <r.a.ramosjohnson@gmail.com>
+Date:   Sun Mar 16 17:56:35 2025 -0300
+
+    Eliminar la carpeta .vscode
+
+[33mcommit 9458ce0bab3d42cd752f7930c756db71cc3883dd[m
+Author: Roberto <r.a.ramosjohnson@gmail.com>
+Date:   Sun Mar 16 17:53:26 2025 -0300
+
+    Añadir la carpeta .vscode
+
+[33mcommit 4f7d9808faf66f021f959f3f69c1f0754b6bd09c[m
+Author: Roberto <r.a.ramosjohnson@gmail.com>
+Date:   Sun Mar 16 17:51:14 2025 -0300
+
+    Eliminada la carpeta .vscode
+
+[33mcommit 534f8a0cedf2992869c1a63c991a9b337216e49d[m
+Author: Roberto <r.a.ramosjohnson@gmail.com>
+Date:   Sun Mar 16 17:50:07 2025 -0300
+
+    Eliminado el archivo index.html
+
+[33mcommit d4ac4e7e1e418109e7b4c48cc2eb355c23008e0a[m
+Author: Roberto <r.a.ramosjohnson@gmail.com>
+Date:   Sun Mar 16 17:48:07 2025 -0300
+
+    Eliminada la carpeta assets
+
+[33mcommit c39f485efd7a3b0af95eda1b4c611c3ae60b334d[m
+Author: Roberto <r.a.ramosjohnson@gmail.com>
+Date:   Sun Mar 16 17:46:49 2025 -0300
+
+    Eliminada la carpeta pages
+
+[33mcommit 7361e9fe93b477cbb69d8e08b73aaa3c3d3de533[m
+Author: Roberto <r.a.ramosjohnson@gmail.com>
+Date:   Sun Mar 16 17:45:47 2025 -0300
+
+    Eliminada la carpeta iconos
+
+[33mcommit c1f91e20b16c27f0e1332974484204949a2d5491[m
+Author: Roberto <r.a.ramosjohnson@gmail.com>
+Date:   Sun Mar 16 17:42:47 2025 -0300
+
+    Eliminada la carpeta css
+
+[33mcommit 5d3d69ae27f2d3209f3e09eb8120c3d67e6ad004[m
+Author: Roberto <r.a.ramosjohnson@gmail.com>
+Date:   Sun Mar 16 17:40:27 2025 -0300
+
+    Eliminados archivos y carpeta 'page'
+
+[33mcommit bbef9bcaeee56e126289458e91536a6113545ce4[m
+Author: Roberto <r.a.ramosjohnson@gmail.com>
+Date:   Sun Mar 16 17:32:14 2025 -0300
+
+    Agregada la carpeta assets con archivos
+
+[33mcommit 73502afba89884216ebd5db845b80ac9f93ed87d[m
+Author: Roberto <r.a.ramosjohnson@gmail.com>
+Date:   Sun Mar 16 17:07:12 2025 -0300
+
+    Eliminado index.html
+
+[33mcommit 5d924cc1a8c95bb9f379a7c27833face55b16a7f[m
+Author: Roberto <r.a.ramosjohnson@gmail.com>
+Date:   Fri Mar 14 20:15:14 2025 -0300
+
+    Se agrega carpeta page
+
+[33mcommit 96b10b9ad06c238a6463509c06feb13b39448b3d[m
+Author: Roberto <r.a.ramosjohnson@gmail.com>
+Date:   Fri Mar 14 19:54:00 2025 -0300
+
+    Descripción de los cambios realizados
+
+[33mcommit 0903ca70b75dd12e30b7b09d630c6cad6fe13cfd[m
+Author: Roberto <r.a.ramosjohnson@gmail.com>
+Date:   Fri Mar 14 19:33:09 2025 -0300
+
+    Se agregaron iconos y fotografías
+
+[33mcommit 3795329863382a9055ea25f42686a80f5d121ab7[m
+Author: Roberto <r.a.ramosjohnson@gmail.com>
+Date:   Fri Mar 14 19:27:23 2025 -0300
+
+    Se agregaron iconos y fotografías
+
+[33mcommit ecc1e19ae8d5e20905237ae7224755725668dd65[m
+Author: Roberto <r.a.ramosjohnson@gmail.com>
+Date:   Fri Mar 14 19:15:38 2025 -0300
+
+    modificaciones :nav con ul-sin comentarios-headings-s/tag vacios-agregue bootstrap
+
+[33mcommit 314208bcac8618f71b86784433ce14abbd76d8a9[m
+Author: Roberto <r.a.ramosjohnson@gmail.com>
+Date:   Mon Feb 24 21:45:26 2025 -0300
+
+    modifique bootstrap
+
+[33mcommit 94008f271459e000400d7168abca7bf9ac8e8d7c[m
+Author: Roberto <r.a.ramosjohnson@gmail.com>
+Date:   Mon Feb 24 21:14:15 2025 -0300
+
+    Se agrega el proyecto

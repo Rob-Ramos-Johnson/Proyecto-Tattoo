@@ -1,25 +1,24 @@
 // Media queries para la responsividad
 @media (max-width: 576px) {
-    .card-img-top {
-        height: 200px;
-    }
+  .card-img-top {
+      height: 200px;
   }
-  
-  @media (max-width: 768px) {
-    .card-img-top {
-        height: 230px;
-    }
+}
+
+@media (max-width: 768px) {
+  .card-img-top {
+      height: 230px;
   }
-  
-  @media (min-width: 992px) {
-    .card-img-top {
-        height: 300px;
-    }
+}
+
+@media (min-width: 992px) {
+  .card-img-top {
+      height: 300px;
   }
-  
-  @media (max-width: 768px) {
-    .container .row img {
-        height: 200px;
-    }
+}
+
+@media (max-width: 768px) {
+  .container .row img {
+      height: 200px;
   }
-  
+}
