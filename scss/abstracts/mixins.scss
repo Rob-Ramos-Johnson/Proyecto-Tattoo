@@ -1,9 +1,8 @@
 // Mixins 
 @mixin transition($property, $duration) {
-    transition: $property $duration ease;
-  }
-  
-  @mixin animation($name, $duration) {
-    animation: $name $duration ease-out forwards;
-  }
-  
+  transition: $property $duration ease;
+}
+
+@mixin animation($name, $duration) {
+  animation: $name $duration ease-out forwards;
+}

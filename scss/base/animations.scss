@@ -11,7 +11,9 @@
 }
 
 body {
-    animation: fadeInBody 0.5s ease-out forwards; /* Duración más corta para mayor rapidez */
+    animation: fadeInBody 0.3s ease-out forwards;
+    will-change: opacity;
+    transform: translateZ(0); /* Forzar la aceleración por GPU */
 }
 
 // Animación de desvanecimiento general
@@ -25,32 +27,36 @@ body {
 }
 
 .element {
-    animation: fadeIn 0.4s ease-out forwards; /* Duración más corta */
+    animation: fadeIn 0.4s ease-out forwards;
+    will-change: opacity;
+    transform: translateZ(0); /* Forzar la aceleración por GPU */
 }
 
 // Animación de desvanecimiento con deslizamiento hacia abajo
 @keyframes fadeInDown {
     from {
         opacity: 0;
-        transform: translateY(-20px); /* Deslizar desde arriba */
+        transform: translateY(-30px) translateZ(0); /* Más notorio, acelerado por GPU */
     }
     to {
         opacity: 1;
-        transform: translateY(0);
+        transform: translateY(0) translateZ(0);
     }
 }
 
 header {
-    animation: fadeInDown 0.6s ease-out forwards; /* Duración ajustada */
+    animation: fadeInDown 0.5s ease-out forwards;
+    will-change: transform, opacity;
+    transform: translateZ(0);
 }
 
-// Animación de resplandor para un elemento
+// Animación de resplandor
 @keyframes glow {
     0% {
         text-shadow: 0 0 5px #fff;
     }
     50% {
-        text-shadow: 0 0 20px #ff00ff;
+        text-shadow: 0 0 25px #ff00ff;
     }
     100% {
         text-shadow: 0 0 5px #fff;
@@ -58,45 +64,66 @@ header {
 }
 
 h1 {
-    animation: glow 1s ease-in-out infinite alternate; /* Tiempo ajustado a 1s */
+    animation: glow 1.5s ease-in-out infinite alternate;
+    will-change: text-shadow;
+    transform: translateZ(0); /* Aceleración por GPU */
 }
 
-// Animación de deslizamiento desde la izquierda
+// Deslizamiento desde la izquierda
 @keyframes slideInLeft {
     from {
-        transform: translateX(-100%); /* Comienza fuera de la pantalla */
+        transform: translateX(-100%) translateZ(0); /* Aceleración por GPU */
     }
     to {
-        transform: translateX(0);
+        transform: translateX(0) translateZ(0);
     }
 }
 
 .element {
-    animation: slideInLeft 0.6s ease-out forwards; /* Duración ajustada a 0.6s */
+    animation: slideInLeft 0.6s ease-out forwards;
+    will-change: transform;
+    transform: translateZ(0); /* Aceleración por GPU */
 }
 
-// Animación de deslizamiento hacia arriba con desvanecimiento
+// Deslizamiento hacia arriba con desvanecimiento
 @keyframes slideInUp {
     from {
         opacity: 0;
-        transform: translateY(50px); /* Comienza más abajo */
+        transform: translateY(50px) translateZ(0); /* Aceleración por GPU */
     }
     to {
         opacity: 1;
-        transform: translateY(0);
+        transform: translateY(0) translateZ(0);
     }
 }
 
 section {
-    animation: slideInUp 0.6s ease-out forwards; /* Duración ajustada a 0.6s */
+    animation: slideInUp 0.5s ease-out forwards;
+    will-change: transform, opacity;
+    transform: translateZ(0); /* Aceleración por GPU */
 }
 
+// Para una animación más fluida con un pequeño retraso
+.element:nth-child(1) {
+    animation: fadeIn 0.4s ease-out forwards;
+    animation-delay: 0.1s;
+}
+
+.element:nth-child(2) {
+    animation: fadeIn 0.4s ease-out forwards;
+    animation-delay: 0.2s;
+}
+
+.element:nth-child(3) {
+    animation: fadeIn 0.4s ease-out forwards;
+    animation-delay: 0.3s;
+}
 
 // Sobrescribir las animaciones de Bootstrap
 
 /* Transiciones de los botones */
 .btn {
-    transition: all 0.15s ease; /* Duración más corta */
+    transition: background-color 0.15s ease, transform 0.15s ease; /* Duración más corta */
 }
 
 /* Modificar la animación de los modales */
@@ -129,34 +156,9 @@ section {
     transition: opacity 0.25s ease-out; /* Ajusta el tiempo de desvanecimiento */
 }
 
-/* Sobrescribir las animaciones de Bootstrap */
-@keyframes fadeIn {
-    from {
-        opacity: 0;
-    }
-    to {
-        opacity: 1;
-    }
-}
-
-/* Hacer la animación más rápida */
-.fade {
-    animation: fadeIn 0.3s ease-out forwards; /* Duración ajustada */
-}
-
-/* Asegúrate de que la animación no se acumule */
-.fade {
-    animation-fill-mode: forwards;
-}
-
-// Sobrescribir globalmente las transiciones
+/* Sobrescribir globalmente las transiciones */
 * {
     transition: all 0.15s ease !important; /* Asegura que todas las transiciones sean rápidas */
-}
-
-// Botones con transiciones más rápidas
-.btn {
-    transition: background-color 0.15s ease, transform 0.15s ease;
 }
 
 // Transiciones más rápidas para el menú de navegación
