@@ -1,14 +1,14 @@
+// Archivo principal que importa todos los parciales
 
-
-@import 'abstracts/variables';      
-@import 'abstracts/mixins';         
-@import 'base/animations';          
-@import 'base/base';                 
-@import 'components/navbar';         
-@import 'components/buttons';        
-@import 'components/cards';         
-@import 'layout/header';             
-@import 'layout/footer';             
-@import 'utilities/mediaqueries';    
-@import 'hero/hero';                
-@import 'visitanos/visitanos';       
+@import 'abstracts/variables';       // Variables globales (colores, tipografía, etc.)
+@import 'abstracts/mixins';          // Mixins para reutilizar código
+@import 'base/animations';           // Animaciones globales
+@import 'base/base';                 // Estilos base (normalización, tipografía general, etc.)
+@import 'components/navbar';         // Navbar
+@import 'components/buttons';        // Botones
+@import 'components/cards';          // Tarjetas
+@import 'layout/header';             // Header
+@import 'layout/footer';             // Footer
+@import 'utilities/mediaqueries';    // Media queries globales
+@import 'hero/hero';                 // Sección Hero
+@import 'visitanos/visitanos';       // Sección Visítanos
