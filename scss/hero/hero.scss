@@ -2,14 +2,14 @@
 .hero-container {
     position: relative;
     width: 100%;
-    height: 50vh;
+    min-height: 60vh;  // Usamos min-height para un poco más de control en diferentes pantallas
     overflow: hidden;
 }
 
 .hero-img {
-    object-fit: cover;
-    width: 100%;
-    height: 100%;
+    object-fit: cover;   // Cubre todo el contenedor, pero no deforma la imagen
+    width: 100%;         // Hace que la imagen ocupe todo el ancho disponible
+    height: 100%;        // La imagen ocupa todo el alto disponible
     position: absolute;
     top: 0;
     left: 0;
@@ -35,5 +35,5 @@
     margin-bottom: 20px;
     color: white;
     opacity: 1;
-    animation: slideInUp 2s ease-out forwards; 
+    animation: slideInUp 2s ease-out forwards;
 }
